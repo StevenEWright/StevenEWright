@@ -1,4 +1,4 @@
-Steve Wright
+About Me
 =============================
 *   🖥️ I'm hard at work on [The Kullna Programming Language](http://www.kullna.org)
 *   🏙️ I spend my time in :us: :foggy: San Francisco, CA and :iraq: ✨ Baghdad, IQ
