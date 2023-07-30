@@ -7,12 +7,13 @@ About Me
 *   :office: I've been a professional software engineer since 1999
     *   :neckbeard: Former iOS & cross-platform @ Google & Snap
 *   📑 I have licenses:
-    *   :satellite: ARRL General Amateur Radio
+    *   :satellite: ARRL General Amateur Radio Operator
     *   🌊 PADI Open Water Diver
     *   🏍️ NY & CA Motorcycle Operator
 *  :grinning: I do random things for fun:
     *   🪨 Rock Climbing
     *   :bicyclist: Road Biking
+    *   🔌 Build Homebrew Retro Z80 Computers
 *  📢 I say things to other people:
     *   :us: English (Native)
     *   :iraq: Arabic (MSA, Baghdadi, Adv. Intermediate)
