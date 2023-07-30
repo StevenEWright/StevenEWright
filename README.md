@@ -1,8 +1,7 @@
 Hi 👋 My name is Steve Wright
 =============================
-
-Kullna.org Software Engineer, x-Google, x-Snap
-----------------------------------------------
+Kullna.org Software Engineer
+Formerly Google, Snap
 
 *   🌍  I'm based in San Francisco, CA, Baghdad, IQ
 *   🚀  I'm currently working on [Kullna](http://www.kullna.org)
