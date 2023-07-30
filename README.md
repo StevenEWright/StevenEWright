@@ -1,15 +1,23 @@
 About Me
 =============================
 *   🖥️ I'm hard at work on [The Kullna Programming Language](http://www.kullna.org)
-*   🛌 I spend my time in :us: :foggy: San Francisco, CA and :iraq: ✨ Baghdad, IQ
-*   :neckbeard: I've been a professional software engineer since 1999
-*   📑 Former iOS & cross-platform @ Google & Snap
-*   :satellite: Licensed General Amateur Radio Operator
-*   🌊 Licenced SCUBA Diver
-*   🪨 Rock Climber
-*   🚴‍♂️ Biker
-*   📢 I speak English (Native) and Arabic (Adv. Intermediate)
-*   🐱 I'm a cat person
-*   🍣 I love sushi and kabab
+*   🛌 I spend my time in:
+    *   :foggy: San Francisco, CA
+    *   ✨ Baghdad, IQ
+*   :office: I've been a professional software engineer since 1999
+    *   :neckbeard: Former iOS & cross-platform @ Google & Snap
+*   📑 I have licenses:
+    *   :satellite: ARRL General Amateur Radio
+    *   🌊 Open Water Diver
+    *   🏍️ Motorcycle Operator
+*  :grinning: I do random things for fun:
+    *   🪨 Rock Climbing
+    *   :bicyclist: Road Biking
+*  📢 I say things to other people:
+    *   :us: English (Native)
+    *   :iraq: Arabic (MSA, Baghdadi, Adv. Intermediate)
+*   :heart_eyes: I'm unreasonably obsessed with some things:
+    *   🐱 Cats
+    *   🍣 Sushi and Kabab
 *   📖 My favorite book is الامير الصغير 🌹 🦊 🌾 
-*   :wave: Say hello on [Discord](https://discord.com/users/stevenewright)
+*   :wave: Please say hello on [Discord](https://discord.com/users/stevenewright)
