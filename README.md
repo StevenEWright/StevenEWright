@@ -8,8 +8,8 @@ About Me
     *   :neckbeard: Former iOS & cross-platform @ Google & Snap
 *   📑 I have licenses:
     *   :satellite: ARRL General Amateur Radio
-    *   🌊 Open Water Diver
-    *   🏍️ Motorcycle Operator
+    *   🌊 PADI Open Water Diver
+    *   🏍️ NY & CA Motorcycle Operator
 *  :grinning: I do random things for fun:
     *   🪨 Rock Climbing
     *   :bicyclist: Road Biking
