@@ -1,7 +1,7 @@
 About Me
 =============================
 *   🖥️ I'm hard at work on [The Kullna Programming Language](http://www.kullna.org)
-*   🏙️ I spend my time in :us: :foggy: San Francisco, CA and :iraq: ✨ Baghdad, IQ
+*   🛌 I spend my time in :us: :foggy: San Francisco, CA and :iraq: ✨ Baghdad, IQ
 *   :neckbeard: I've been a professional software engineer since 1999
 *   📑 Former iOS & cross-platform @ Google & Snap
 *   :satellite: Licensed General Amateur Radio Operator
