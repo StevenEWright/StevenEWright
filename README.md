@@ -22,3 +22,5 @@ About Me
     *   🍣 Sushi and Kabab
 *   📖 My favorite book is الامير الصغير 🌹 🦊 🌾 
 *   :wave: Please say hello on [Discord](https://discord.com/users/stevenewright)
+
+<a href="https://www.buymeacoffee.com/stevenewright" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
